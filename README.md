@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**yashodhakulathunga99/yashodhakulathunga99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yashodha Kulathunga, an undergraduate student at Uva Wellassa University, Sri Lanka, passionate about the software field.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+  - University: Uva Wellassa University, Sri Lanka
+  - Degree: Bachelor of Science (BSc) in Computer Science and Technology
+  - Year of Graduation: 2025 (Expected)
+
+### Skills
+I'm enthusiastic about various technologies and have experience working on projects using:
+- Java
+- PHP
+- Python
+- JavaScript
+- Django
+- React
+- HTML
+- CSS
+- Bootstrap
+
+
+
+
+## Interests
+Apart from my academic and technical pursuits, I'm interested in:
+- Exploring new technologies and frameworks
+- Contributing to open-source projects
+- Participating in hackathons and coding competitions
+
+## Contact Information
+Feel free to connect with me or reach out for collaborations:
+- Email: yashodhakulathunga@gmail.com
+- LinkedIn:www.linkedin.com/in/yashodha-kulathunga
+
+
